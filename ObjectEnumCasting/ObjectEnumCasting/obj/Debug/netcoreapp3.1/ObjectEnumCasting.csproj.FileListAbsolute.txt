@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P224\Task\ObjectEnumCasting\ObjectEnumCasting\bin\Debug\netcoreapp3.1\ObjectEnumCasting.exe
+C:\Users\memme\Desktop\P224\Task\ObjectEnumCasting\ObjectEnumCasting\bin\Debug\netcoreapp3.1\ObjectEnumCasting.deps.json
+C:\Users\memme\Desktop\P224\Task\ObjectEnumCasting\ObjectEnumCasting\bin\Debug\netcoreapp3.1\ObjectEnumCasting.runtimeconfig.json
+C:\Users\memme\Desktop\P224\Task\ObjectEnumCasting\ObjectEnumCasting\bin\Debug\netcoreapp3.1\ObjectEnumCasting.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P224\Task\ObjectEnumCasting\ObjectEnumCasting\bin\Debug\netcoreapp3.1\ObjectEnumCasting.dll
+C:\Users\memme\Desktop\P224\Task\ObjectEnumCasting\ObjectEnumCasting\bin\Debug\netcoreapp3.1\ObjectEnumCasting.pdb
+C:\Users\memme\Desktop\P224\Task\ObjectEnumCasting\ObjectEnumCasting\obj\Debug\netcoreapp3.1\ObjectEnumCasting.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P224\Task\ObjectEnumCasting\ObjectEnumCasting\obj\Debug\netcoreapp3.1\ObjectEnumCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P224\Task\ObjectEnumCasting\ObjectEnumCasting\obj\Debug\netcoreapp3.1\ObjectEnumCasting.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P224\Task\ObjectEnumCasting\ObjectEnumCasting\obj\Debug\netcoreapp3.1\ObjectEnumCasting.AssemblyInfo.cs
+C:\Users\memme\Desktop\P224\Task\ObjectEnumCasting\ObjectEnumCasting\obj\Debug\netcoreapp3.1\ObjectEnumCasting.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P224\Task\ObjectEnumCasting\ObjectEnumCasting\obj\Debug\netcoreapp3.1\ObjectEnumCasting.dll
+C:\Users\memme\Desktop\P224\Task\ObjectEnumCasting\ObjectEnumCasting\obj\Debug\netcoreapp3.1\ObjectEnumCasting.pdb
+C:\Users\memme\Desktop\P224\Task\ObjectEnumCasting\ObjectEnumCasting\obj\Debug\netcoreapp3.1\ObjectEnumCasting.genruntimeconfig.cache
